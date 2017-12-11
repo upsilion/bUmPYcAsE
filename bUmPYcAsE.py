@@ -9,3 +9,5 @@ for each in range(int(len(input)*0.85)):
     input[index] = input[index].upper()
     
 print "".join(input)
+
+#
