@@ -10,4 +10,4 @@ for each in range(int(len(input)*0.85)):
     
 print "".join(input)
 
-##@#
+##@##
