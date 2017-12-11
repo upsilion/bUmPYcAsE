@@ -14,7 +14,7 @@ However, this is quite tedious to do manually, especially on mobile or for a lon
 Must run program and enter in string when prompted. Please run in a terminal to see output
 
 **Example**
-'''
+'''bash
 Make this string bumpy: wow this is such a useful program
 wOW THis iS SUcH A usEFuL prOGRAm
 '''
